@@ -1,0 +1,187 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* -------------------------------3rd Class Practice ---------------------------------------------*/
+
+/* .container{
+  background-color: black;
+  width: 100%;
+  height: 593px;
+  position: relative;
+}
+.box{
+  width: 250px;
+  height: 250px;
+}
+.box1{
+  background-color: red;
+  position: absolute;
+}
+.box2{
+  background-color: yellow;
+  position: absolute;
+  right: 0;
+}
+.box3{
+  background-color: orangered;
+  position: absolute;
+  bottom: 0;
+}
+.box4{
+  background-color: green;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.box5{
+  background-color: purple;
+  position: absolute;
+  left: 530px;
+  top: 200px;
+} */
+/* -------------------------------3rd Class Practice ---------------------------------------------*/
+
+
+
+.browndiv{
+  width: 100%;
+  height: 80px;
+  background-color: brown;
+  position: relative;
+}
+.white{
+  width: 80px;
+  height: 45px;
+  background-color: blue;
+  position: absolute;
+  top: 25px;
+  border-radius: 5px;
+}
+.white1{
+  right: 10px;
+  background-color: white;
+}
+.white2{
+  right:95px;
+  background-color:white;
+}
+.white3{
+  right:180px;
+  background-color:white;
+}
+.white4{
+  right:265px;
+  background-color:white;
+}
+.nav{
+  width: 100%;
+  background-color: black;
+  height: 50px;
+  position: relative;
+}
+.nav li{
+  position: absolute;
+  color: white;
+  list-style: none;
+  top: 13px;
+}
+.home{
+  left: 20px;
+}
+.news{
+  left: 90px;
+}
+.contact{
+  left: 160px;
+}
+.about{
+  left: 240px;
+}
+.green{
+  position: absolute;
+  height: 50px;
+  width: 50%;  
+  background-color: rgb(13, 105, 13);
+  right: 0;
+}
+.sky{
+  position: absolute;
+  width: 210px;
+  height: 25px;
+  background-color: skyblue;
+  right: 12px;
+  top: 12px;
+}
+.third{
+  width: 100%;
+  height: 305px;
+  background-color: rgb(234, 194, 145);
+  position: relative;
+}
+.black{
+  width: 90%;
+  height: 270px;
+  background-color: black;
+  position: absolute;
+  top: 18px;
+  border-radius: 10px;
+  left: 63px;
+}
+.blue{
+  width: 100%;
+  height: 60px;
+  background-color: blue;
+  position: absolute;
+  bottom: 0;
+  border-radius: 10px;
+}
+.yellowbtn1{
+  width: 90px;
+  height: 40px;
+  background-color: rgb(218, 172, 19);
+  position: absolute;
+  border-radius: 10px;
+  bottom: 80px;
+  left: 30px;
+}
+.yellowbtn2{
+  width: 90px;
+  height: 40px;
+  background-color: rgb(218, 172, 19);
+  position: absolute;
+  border-radius: 10px;
+  bottom: 80px;
+  left: 140px;
+}
+.wite1{
+  width: 210px;
+  height: 205px;
+  background-color: white;
+  position: absolute;
+  top: 12px;
+  right: 30px;
+  border-radius: 7px;
+  border: 1px solid black;
+}
+.wite2{
+  width: 210px;
+  height: 230px;
+  background-color: white;
+  position: absolute;
+  top: 27px;
+  right: 80px;
+  border-radius: 7px;
+  border: 1px solid black;
+}
+.fourth{
+  width: 50%;
+  background-color: pink;
+  height: 156.5px;
+  position: relative;
+
+}
+
+
+
