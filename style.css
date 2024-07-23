@@ -180,8 +180,12 @@
   background-color: pink;
   height: 156.5px;
   position: relative;
+  border-radius: 7px;
+  border: 1px solid black;
+ }
+ .fourth .skyblue{
 
-}
+ }
 
 
 
